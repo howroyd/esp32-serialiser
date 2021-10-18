@@ -1,0 +1,4 @@
+{
+    "idf.portWin": "COM20",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
