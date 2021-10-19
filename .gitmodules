@@ -1,3 +1,6 @@
 [submodule "libraries/GSL"]
 	path = libraries/GSL
-	url = https://github.com/microsoft/GSL.git
+	url = git@github.com:microsoft/GSL.git
+[submodule "libraries/jsoncpp"]
+	path = libraries/jsoncpp
+	url = git@github.com:open-source-parsers/jsoncpp.git
