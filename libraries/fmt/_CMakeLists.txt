@@ -1,0 +1,6 @@
+set(SOURCES ./fmt/src/fmt.cc
+            ./fmt/src/format.cc
+            ./fmt/src/os.cc)
+
+idf_component_register(SRCS ${SOURCES}
+                        INCLUDE_DIRS "./fmt/include")
