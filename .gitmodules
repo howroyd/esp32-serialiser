@@ -1,6 +1,12 @@
-[submodule "libraries/GSL"]
-	path = libraries/GSL
+[submodule "libraries/gsl/GSL"]
+	path = libraries/gsl/GSL
 	url = git@github.com:microsoft/GSL.git
-[submodule "libraries/jsoncpp"]
-	path = libraries/jsoncpp
+[submodule "libraries/jsoncpp/jsoncpp"]
+	path = libraries/jsoncpp/jsoncpp
 	url = git@github.com:open-source-parsers/jsoncpp.git
+[submodule "libraries/spdlog/spdlog"]
+	path = libraries/spdlog/spdlog
+	url = git@github.com:gabime/spdlog.git
+[submodule "libraries/fmt/fmt"]
+	path = libraries/fmt/fmt
+	url = git@github.com:fmtlib/fmt.git
